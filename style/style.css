@@ -15,7 +15,7 @@
 }
 .banner{
             
-    padding: 70px 180px;
+    padding: 90px 180px;
  }
  .banner-text{
     color: #FFF;
@@ -52,6 +52,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin: 40px 0px;
 }
 .categories-text{
     color: #F00;
@@ -59,6 +60,7 @@
     font-family: Inter;
     font-size: 18px;    
     font-weight: 500;
+    margin-bottom: 15px;
    
 }
 .catagories-content{
@@ -68,6 +70,7 @@
     font-size: 40px;
     font-weight: 700;
     margin-top: 5px;
+    margin-bottom: 50px;
 
 }
 
@@ -158,6 +161,7 @@ button{
     margin-top: 20px;
     margin-bottom: 30px ;
 }
+/* comming section */
 .comming-main{
     width: 40%;
 }
@@ -175,18 +179,18 @@ button{
 }
 .comming-text{
     color: #F00;
-    text-align: center;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
+    margin-bottom: 10px;
 }
 .comming-title{
     color: #070211;
     font-family: Merriweather;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 900;
-    margin-top: 5px;
+    margin: 10px 0;
     text-transform: capitalize;
     margin-top: 0px;
 }
@@ -195,7 +199,8 @@ button{
     font-family: Inter;
     font-size: 17px;
     font-weight: 400;
-    margin-top: 0px;
+    margin: 15px 0px;
+
 }
 .year{
     color: #F00;
@@ -212,6 +217,7 @@ button{
     border-radius: 70%;
     padding: 15px;
 }
+/* holiday section */
 .holiday{
     text-align: center;
     width: 80%;
@@ -240,7 +246,7 @@ button{
     font-size: 62px;
     font-weight: 900;
     margin-bottom: 15px;
-    margin-top: 20px;
+    margin: 30px 0;
 }
 
 .sections{
